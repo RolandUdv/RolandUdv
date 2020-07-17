@@ -1,4 +1,4 @@
-![This is a alt text.](https://pbs.twimg.com/profile_banners/846117703299612673/1548799136/1500x500 "This is a sample image.")
+![Image](https://pbs.twimg.com/profile_banners/846117703299612673/1548799136/1500x500)
 
 
 
