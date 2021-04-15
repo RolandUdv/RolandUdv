@@ -22,8 +22,7 @@ I can also be found under the name "Techusiast" on YouTube and other social medi
 <hr>
 
 - 🔭 I’m currently working on improving my YouTube channel and my JavaScript knowledge
-- 🌱 I’m currently learning Electron and JavaScrip in general
-- 👯 I’m looking to collaborate on potential podcast and technology content
+- 🌱 I’m currently learning React
 - 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/techusiast?label=%40Techusiast&style=social)
 
 
