@@ -4,10 +4,6 @@
 
 ### Hey there 👋
 
-I am a freshly graduated Software Engineer.
-
-I can also be found under the name "Techusiast" on YouTube and other social media websites where I review technology in-depth. I aim to share my opinion in the most informative way for people to make smart decisions when purchasing technology products/services.
-
 <hr>
 
 <h3 align="center">Socials</h3>
