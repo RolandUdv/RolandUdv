@@ -1,4 +1,4 @@
-![Image](https://pbs.twimg.com/profile_banners/846117703299612673/1756121703/600x200)
+![Image](https://pbs.twimg.com/profile_banners/846117703299612673/1756121703)
 
 
 
